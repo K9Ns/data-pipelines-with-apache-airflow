@@ -41,11 +41,11 @@
 
 ### 리포지터리 업데이트
 _저자의 원본 리포지터리에서 추가된 파일을 업데이트했습니다._
-
+  
 ### docker compose 통한 예제 실행 시 macOS 포트 충돌 문제
-아래 링크를 참조해 주세요.
+아래 링크를 참조해 주세요.  
 https://medium.com/pythonistas/port-5000-already-in-use-macos-monterey-issue-d86b02edd36c
-
+  
 ### 오탈자 정보
 이도엽님 제보 - 2022. 06. 08.(Wed)
 1. 129 페이지, 리스트 6.4
