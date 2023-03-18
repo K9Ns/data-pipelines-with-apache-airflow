@@ -2,3 +2,7 @@ Flask==1.1.1
 pandas==0.25.2
 Flask-HTTPAuth==3.3.0
 click==7.1.2
+numpy==1.23.1
+jinja2==3.0.3
+itsdangerous==2.0.1
+werkzeug==2.0.3
